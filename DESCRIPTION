@@ -1,7 +1,7 @@
 Package: partCNV
 Type: Package
 Title: Infer locally aneuploid cells using single cell RNA-seq data
-Version: 1.9.0
+Version: 1.9.1
 Authors@R: c(
 	person(given="Ziyi", family="Li", email="zli16@mdanderson.org", role=c("aut", "cre", "ctb")),
 	person(given="Ruoxing", family="Li", email="ruoxingli@outlook.com", role="ctb"))
@@ -19,3 +19,4 @@ Encoding: UTF-8
 RoxygenNote: 7.2.3
 biocViews: Software, CopyNumberVariation, HiddenMarkovModel, SingleCell, Classification
 Config/testthat/edition: 3
+PackageStatus: Deprecated
